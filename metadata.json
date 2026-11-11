@@ -1,0 +1,6 @@
+{
+  "name": "Studio App",
+  "description": "Nền tảng ứng dụng hiện đại và tương tác thông minh.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
